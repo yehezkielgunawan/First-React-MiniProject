@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The result can be seen in [https://yehez-first-reactapp.surge.sh] (https://yehez-first-reactapp.surge.sh)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
+The result can be seen in [https://yehez-first-reactapp.surge.sh] (https://yehez-first-reactapp.surge.sh). <br/>
+Thanks to [https://www.taniarascia.com/getting-started-with-react/] (Tania Rascia) for the resource and tutorial.
 
 ## Available Scripts
 
